@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\RESTEasyt-Spring-Integration-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\Jersey-Spring-Integration-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\Jersey-Client-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\RESTful-Java-Client-RESTEasyt-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\RESTful-Java-Client-ApacheHttpClient-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JAX-RS-Client-JavaURL-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JAX-RS-Download-JSON-JAXB-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JAX-RS-Download-JSON-Jackson-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JSON-Support-Jersey-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JAX-RS-Download-XML-JAXB-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\XML-Support-Jersey-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JAX-RS-FileUpload-Resteasy-Example1"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JAX-RS-FileUpload-Jersey-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JAX-RS-Download-Excel-File-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JAX-RS-Download-Pdf-File-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JAX-RS-Download-ImageFile-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\JAX-RS-Download-TextFile-Example"/>
+		<item value="C:\Users\ongOngongPC\EclipseWorkspaceV2_02_JAXRS\RESTfulExample"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="402" key="DIALOG_HEIGHT"/>
+		<item value="710" key="DIALOG_X_ORIGIN"/>
+		<item value="252" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
